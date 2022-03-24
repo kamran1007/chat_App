@@ -9,3 +9,4 @@ Now we have to tell Heroku that our app is a NodeJS app.
 Open the Settings tab scroll down and click “Add buildpack”. 
 Select NodeJS from the options and click Save changes. Now, go back to the Deploy tab, and click Deploy Branch at the bottom.
 Heroku will take the code and host it. Open the Activity tab and there you can see the progress: 
+![Screenshot (70)](https://user-images.githubusercontent.com/82281265/159940092-49f0a3a8-6dfb-400d-86f6-da9d500c07eb.png)
